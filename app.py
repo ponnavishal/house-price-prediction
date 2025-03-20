@@ -28,4 +28,4 @@ if st.button('Predict Price'):
     prediction = model.predict(input_data)
     
     # Show the prediction result
-    st.write(f"The predicted house price is: ${prediction[0]}")
+    st.write(f"The predicted house price is:₹.{prediction[0]}")
