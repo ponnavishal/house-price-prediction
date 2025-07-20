@@ -10,6 +10,7 @@ This project is an interactive **House Price Prediction** web app built using **
 
 > 📌 *Click the badge above to try the app live!*  
 > (https://house-price-prediction-rhgziqdeenphvee5cpywuu.streamlit.app/)
+<img width="1910" height="996" alt="image" src="https://github.com/user-attachments/assets/9314b5e5-065d-4ed0-a164-75d1b1e2d379" />
 
 ---
 
