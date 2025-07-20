@@ -6,10 +6,10 @@ This project is an interactive **House Price Prediction** web app built using **
 
 ## 🚀 Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/your-username/house-price-streamlit-app/main/streamlit_app.py)
+[![Open in Streamlit](https://house-price-prediction-rhgziqdeenphvee5cpywuu.streamlit.app/)
 
 > 📌 *Click the badge above to try the app live!*  
-> (*Replace with your actual deployed link after deployment*)
+> (https://house-price-prediction-rhgziqdeenphvee5cpywuu.streamlit.app/)
 
 ---
 
